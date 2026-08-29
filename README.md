@@ -4,6 +4,7 @@
 - installed opencv, numpy, matplotlib
 - tried to understand the image processing pipeline
 - looked up the math behind the processes(grayscale, canny,mask, hough transform) on youtube
+- line is converted from x,y axis to rho,theta axis(Hough Space) and the part of grid in this space which has maximum intersection gives the rho & theta values to draw lines
 - bitwise_and, bitwise_or,blending and how mask is applied
 
 ---28/08/26 FRIDAY---
